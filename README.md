@@ -20,4 +20,4 @@ timetable是每次打鐘的時間，不想顯示就用disabled
 ## 快速設定
 
 點擊右上角的設定會切換到設定頁面  
-![image](./settings.jpg =200x)
+![image](./settings.jpg)
