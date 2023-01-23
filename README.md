@@ -1,6 +1,7 @@
 # 段考用可調整時間時鐘
 
-[網頁連結](http://ytleiting.com/tool/clock_for_exam/)
+[網頁連結](http://ytleiting.com/tool/clock_for_exam/)  
+
 我們班在段考的時候會在前面電視開線上時鐘  
 在某次學校段考時，我們發現學校打鐘比線上時鐘慢1分29秒  
 於是我就用10分鐘做了一個小網頁來調整時間  
